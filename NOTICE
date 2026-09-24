@@ -1,0 +1,11 @@
+Douyin Reader self-hosted edition
+
+This project contains code derived from and inspired by:
+- dvdxfv/douyin-mcp-server
+- yzfly/douyin-mcp-server
+
+The upstream projects are distributed under the Apache License 2.0.
+
+Modifications in this repository include a self-hosted Render deployment,
+Cloudflare Workers AI transcription, asynchronous shortcut endpoints, and
+iPhone Shortcuts integration.
